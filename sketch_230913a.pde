@@ -1,3 +1,4 @@
+//프로세싱 코드
 import processing.serial.*;
 import processing.net.*;
 Server s;
